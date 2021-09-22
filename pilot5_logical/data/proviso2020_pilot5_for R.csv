@@ -1,0 +1,801 @@
+﻿exp,id,condition,item,question,resp,rt,resp_lower,resp_coded
+dep_abcd,1612213183,Distractor,1,Does Ann like to toogid? ,No,15472,no,1
+dep_abcd,1612213183,Distractor,2,Does Bea have a hondart? ,Yes,20003,yes,1
+dep_abcd,1612213183,Distractor,4,Does Dana love to flomp? ,Yes,8222,yes,1
+dep_abcd,1612213183,Distractor,5,Does Eva hate zeptons? ,Yes,11197,yes,1
+dep_abcd,1612213183,Distractor,6,Does Faye have a taplor? ,No,8427,no,1
+dep_abcd,1612213183,Distractor,7,Does Gabe enjoy tuffros? ,Yes,10089,yes,1
+dep_abcd,1612213183,Distractor,9,Does Ivan know bezido? ,No,9190,no,1
+dep_abcd,1612213183,Distractor,10,Does Jill like to yoffa? ,Yes,7483,yes,1
+dep_abcd,1612213183,Distractor,11,Does Katie care about linters? ,No,8331,no,1
+dep_abcd,1612213183,Distractor,12,Does Leah enjoy folphies? ,Yes,7117,yes,1
+dep_abcd,1612213183,Distractor,14,Does Nate know karink? ,Yes,6035,yes,1
+dep_abcd,1612213183,Distractor,15,Does Owen like bisloor? ,No,7404,no,1
+dep_abcd,1612213183,Distractor,16,Does Peter hate flungo? ,Yes,5916,yes,1
+dep_abcd,1612213183,Distractor,17,Does Quinn care about vanoir? ,Yes,6387,yes,1
+dep_abcd,1612213183,Distractor,19,Does Steve love pavarons? ,Yes,6035,yes,1
+dep_abcd,1612213183,Distractor,20,Is Tracy a tarbon? ,No,16970,no,1
+dep_abcd,1612213274,Distractor,1,Does Ann like to toogid? ,No,12092,no,1
+dep_abcd,1612213274,Distractor,2,Does Bea have a hondart? ,Yes,6990,yes,1
+dep_abcd,1612213274,Distractor,4,Does Dana love to flomp? ,Yes,6166,yes,1
+dep_abcd,1612213274,Distractor,5,Does Eva hate zeptons? ,Yes,5702,yes,1
+dep_abcd,1612213274,Distractor,6,Does Faye have a taplor? ,No,6149,no,1
+dep_abcd,1612213274,Distractor,7,Does Gabe enjoy tuffros? ,Yes,5485,yes,1
+dep_abcd,1612213274,Distractor,9,Does Ivan know bezido? ,No,7596,no,1
+dep_abcd,1612213274,Distractor,10,Does Jill like to yoffa? ,Yes,5958,yes,1
+dep_abcd,1612213274,Distractor,11,Does Katie care about linters? ,No,4030,no,1
+dep_abcd,1612213274,Distractor,12,Does Leah enjoy folphies? ,Yes,3637,yes,1
+dep_abcd,1612213274,Distractor,14,Does Nate know karink? ,Yes,3630,yes,1
+dep_abcd,1612213274,Distractor,15,Does Owen like bisloor? ,No,5174,no,1
+dep_abcd,1612213274,Distractor,16,Does Peter hate flungo? ,Yes,4726,yes,1
+dep_abcd,1612213274,Distractor,17,Does Quinn care about vanoir? ,Yes,4349,yes,1
+dep_abcd,1612213274,Distractor,19,Does Steve love pavarons? ,Yes,5278,yes,1
+dep_abcd,1612213274,Distractor,20,Is Tracy a tarbon? ,Yes,13431,yes,0
+dep_abcd,1612213385,Distractor,1,Does Ann like to toogid? ,No,41262,no,1
+dep_abcd,1612213385,Distractor,2,Does Bea have a hondart? ,Yes,10149,yes,1
+dep_abcd,1612213385,Distractor,4,Does Dana love to flomp? ,Yes,10264,yes,1
+dep_abcd,1612213385,Distractor,5,Does Eva hate zeptons? ,Yes,8375,yes,1
+dep_abcd,1612213385,Distractor,6,Does Faye have a taplor? ,No,6799,no,1
+dep_abcd,1612213385,Distractor,7,Does Gabe enjoy tuffros? ,Yes,5102,yes,1
+dep_abcd,1612213385,Distractor,9,Does Ivan know bezido? ,No,5034,no,1
+dep_abcd,1612213385,Distractor,10,Does Jill like to yoffa? ,Yes,4021,yes,1
+dep_abcd,1612213385,Distractor,11,Does Katie care about linters? ,No,8384,no,1
+dep_abcd,1612213385,Distractor,12,Does Leah enjoy folphies? ,Yes,7005,yes,1
+dep_abcd,1612213385,Distractor,14,Does Nate know karink? ,Yes,4932,yes,1
+dep_abcd,1612213385,Distractor,15,Does Owen like bisloor? ,Yes,6529,yes,0
+dep_abcd,1612213385,Distractor,16,Does Peter hate flungo? ,Yes,4136,yes,1
+dep_abcd,1612213385,Distractor,17,Does Quinn care about vanoir? ,Yes,4468,yes,1
+dep_abcd,1612213385,Distractor,19,Does Steve love pavarons? ,Yes,3126,yes,1
+dep_abcd,1612213385,Distractor,20,Is Tracy a tarbon? ,Yes,11336,yes,0
+dep_abcd,1612214349,Distractor,1,Does Ann like to toogid? ,No,14017,no,1
+dep_abcd,1612214349,Distractor,2,Does Bea have a hondart? ,Yes,7394,yes,1
+dep_abcd,1612214349,Distractor,4,Does Dana love to flomp? ,Yes,5748,yes,1
+dep_abcd,1612214349,Distractor,5,Does Eva hate zeptons? ,Yes,5641,yes,1
+dep_abcd,1612214349,Distractor,6,Does Faye have a taplor? ,No,6571,no,1
+dep_abcd,1612214349,Distractor,7,Does Gabe enjoy tuffros? ,Yes,8063,yes,1
+dep_abcd,1612214349,Distractor,9,Does Ivan know bezido? ,No,6748,no,1
+dep_abcd,1612214349,Distractor,10,Does Jill like to yoffa? ,Yes,6658,yes,1
+dep_abcd,1612214349,Distractor,11,Does Katie care about linters? ,No,5810,no,1
+dep_abcd,1612214349,Distractor,12,Does Leah enjoy folphies? ,Yes,6228,yes,1
+dep_abcd,1612214349,Distractor,14,Does Nate know karink? ,Yes,8203,yes,1
+dep_abcd,1612214349,Distractor,15,Does Owen like bisloor? ,No,8999,no,1
+dep_abcd,1612214349,Distractor,16,Does Peter hate flungo? ,Yes,4351,yes,1
+dep_abcd,1612214349,Distractor,17,Does Quinn care about vanoir? ,Yes,6121,yes,1
+dep_abcd,1612214349,Distractor,19,Does Steve love pavarons? ,Yes,3710,yes,1
+dep_abcd,1612214349,Distractor,20,Is Tracy a tarbon? ,Yes,8596,yes,0
+dep_abcd,1612215261,Distractor,1,Does Ann like to toogid? ,No,10030,no,1
+dep_abcd,1612215261,Distractor,2,Does Bea have a hondart? ,Yes,8091,yes,1
+dep_abcd,1612215261,Distractor,4,Does Dana love to flomp? ,Yes,13495,yes,1
+dep_abcd,1612215261,Distractor,5,Does Eva hate zeptons? ,Yes,6393,yes,1
+dep_abcd,1612215261,Distractor,6,Does Faye have a taplor? ,No,5747,no,1
+dep_abcd,1612215261,Distractor,7,Does Gabe enjoy tuffros? ,Yes,5268,yes,1
+dep_abcd,1612215261,Distractor,9,Does Ivan know bezido? ,No,9203,no,1
+dep_abcd,1612215261,Distractor,10,Does Jill like to yoffa? ,Yes,4516,yes,1
+dep_abcd,1612215261,Distractor,11,Does Katie care about linters? ,No,5716,no,1
+dep_abcd,1612215261,Distractor,12,Does Leah enjoy folphies? ,Yes,5084,yes,1
+dep_abcd,1612215261,Distractor,14,Does Nate know karink? ,Yes,3724,yes,1
+dep_abcd,1612215261,Distractor,15,Does Owen like bisloor? ,No,5629,no,1
+dep_abcd,1612215261,Distractor,16,Does Peter hate flungo? ,Yes,4099,yes,1
+dep_abcd,1612215261,Distractor,17,Does Quinn care about vanoir? ,Yes,36274,yes,1
+dep_abcd,1612215261,Distractor,19,Does Steve love pavarons? ,Yes,3179,yes,1
+dep_abcd,1612215261,Distractor,20,Is Tracy a tarbon? ,No,17405,no,1
+dep_bcda,1612213677,Distractor,1,Does Ann like to toogid? ,No,10526,no,1
+dep_bcda,1612213677,Distractor,2,Does Bea have a hondart? ,Yes,7216,yes,1
+dep_bcda,1612213677,Distractor,4,Does Dana love to flomp? ,Yes,3962,yes,1
+dep_bcda,1612213677,Distractor,5,Does Eva hate zeptons? ,Yes,2567,yes,1
+dep_bcda,1612213677,Distractor,6,Does Faye have a taplor? ,No,6823,no,1
+dep_bcda,1612213677,Distractor,7,Does Gabe enjoy tuffros? ,Yes,3941,yes,1
+dep_bcda,1612213677,Distractor,9,Does Ivan know bezido? ,No,9000,no,1
+dep_bcda,1612213677,Distractor,10,Does Jill like to yoffa? ,No,4620,no,0
+dep_bcda,1612213677,Distractor,11,Does Katie care about linters? ,No,10335,no,1
+dep_bcda,1612213677,Distractor,12,Does Leah enjoy folphies? ,No,5056,no,0
+dep_bcda,1612213677,Distractor,14,Does Nate know karink? ,Yes,3673,yes,1
+dep_bcda,1612213677,Distractor,15,Does Owen like bisloor? ,No,2592,no,1
+dep_bcda,1612213677,Distractor,16,Does Peter hate flungo? ,Yes,3656,yes,1
+dep_bcda,1612213677,Distractor,17,Does Quinn care about vanoir? ,Yes,2984,yes,1
+dep_bcda,1612213677,Distractor,19,Does Steve love pavarons? ,Yes,3326,yes,1
+dep_bcda,1612213677,Distractor,20,Is Tracy a tarbon? ,No,5635,no,1
+dep_bcda,1612214031,Distractor,1,Does Ann like to toogid? ,No,23510,no,1
+dep_bcda,1612214031,Distractor,2,Does Bea have a hondart? ,Yes,19322,yes,1
+dep_bcda,1612214031,Distractor,4,Does Dana love to flomp? ,Yes,110881,yes,1
+dep_bcda,1612214031,Distractor,5,Does Eva hate zeptons? ,Yes,6561,yes,1
+dep_bcda,1612214031,Distractor,6,Does Faye have a taplor? ,No,7046,no,1
+dep_bcda,1612214031,Distractor,7,Does Gabe enjoy tuffros? ,Yes,10584,yes,1
+dep_bcda,1612214031,Distractor,9,Does Ivan know bezido? ,No,9936,no,1
+dep_bcda,1612214031,Distractor,10,Does Jill like to yoffa? ,Yes,4738,yes,1
+dep_bcda,1612214031,Distractor,11,Does Katie care about linters? ,Yes,13406,yes,0
+dep_bcda,1612214031,Distractor,12,Does Leah enjoy folphies? ,Yes,4162,yes,1
+dep_bcda,1612214031,Distractor,14,Does Nate know karink? ,Yes,188281,yes,1
+dep_bcda,1612214031,Distractor,15,Does Owen like bisloor? ,Yes,4088,yes,0
+dep_bcda,1612214031,Distractor,16,Does Peter hate flungo? ,Yes,3285,yes,1
+dep_bcda,1612214031,Distractor,17,Does Quinn care about vanoir? ,Yes,6121,yes,1
+dep_bcda,1612214031,Distractor,19,Does Steve love pavarons? ,Yes,6442,yes,1
+dep_bcda,1612214031,Distractor,20,Is Tracy a tarbon? ,No,10638,no,1
+dep_bcda,1612214065,Distractor,1,Does Ann like to toogid? ,No,5637,no,1
+dep_bcda,1612214065,Distractor,2,Does Bea have a hondart? ,Yes,5035,yes,1
+dep_bcda,1612214065,Distractor,4,Does Dana love to flomp? ,Yes,2827,yes,1
+dep_bcda,1612214065,Distractor,5,Does Eva hate zeptons? ,Yes,2332,yes,1
+dep_bcda,1612214065,Distractor,6,Does Faye have a taplor? ,No,3164,no,1
+dep_bcda,1612214065,Distractor,7,Does Gabe enjoy tuffros? ,Yes,1980,yes,1
+dep_bcda,1612214065,Distractor,9,Does Ivan know bezido? ,No,4108,no,1
+dep_bcda,1612214065,Distractor,10,Does Jill like to yoffa? ,Yes,3788,yes,1
+dep_bcda,1612214065,Distractor,11,Does Katie care about linters? ,No,2453,no,1
+dep_bcda,1612214065,Distractor,12,Does Leah enjoy folphies? ,Yes,1832,yes,1
+dep_bcda,1612214065,Distractor,14,Does Nate know karink? ,Yes,2299,yes,1
+dep_bcda,1612214065,Distractor,15,Does Owen like bisloor? ,No,2117,no,1
+dep_bcda,1612214065,Distractor,16,Does Peter hate flungo? ,Yes,3140,yes,1
+dep_bcda,1612214065,Distractor,17,Does Quinn care about vanoir? ,Yes,2085,yes,1
+dep_bcda,1612214065,Distractor,19,Does Steve love pavarons? ,Yes,1892,yes,1
+dep_bcda,1612214065,Distractor,20,Is Tracy a tarbon? ,Yes,5900,yes,0
+dep_bcda,1612214192,Distractor,1,Does Ann like to toogid? ,No,13254,no,1
+dep_bcda,1612214192,Distractor,2,Does Bea have a hondart? ,Yes,16068,yes,1
+dep_bcda,1612214192,Distractor,4,Does Dana love to flomp? ,Yes,13912,yes,1
+dep_bcda,1612214192,Distractor,5,Does Eva hate zeptons? ,Yes,10117,yes,1
+dep_bcda,1612214192,Distractor,6,Does Faye have a taplor? ,No,14083,no,1
+dep_bcda,1612214192,Distractor,7,Does Gabe enjoy tuffros? ,Yes,15564,yes,1
+dep_bcda,1612214192,Distractor,9,Does Ivan know bezido? ,No,9402,no,1
+dep_bcda,1612214192,Distractor,10,Does Jill like to yoffa? ,Yes,9368,yes,1
+dep_bcda,1612214192,Distractor,11,Does Katie care about linters? ,No,9114,no,1
+dep_bcda,1612214192,Distractor,12,Does Leah enjoy folphies? ,Yes,8087,yes,1
+dep_bcda,1612214192,Distractor,14,Does Nate know karink? ,Yes,8698,yes,1
+dep_bcda,1612214192,Distractor,15,Does Owen like bisloor? ,No,6372,no,1
+dep_bcda,1612214192,Distractor,16,Does Peter hate flungo? ,Yes,6189,yes,1
+dep_bcda,1612214192,Distractor,17,Does Quinn care about vanoir? ,Yes,7679,yes,1
+dep_bcda,1612214192,Distractor,19,Does Steve love pavarons? ,Yes,6416,yes,1
+dep_bcda,1612214192,Distractor,20,Is Tracy a tarbon? ,No,16692,no,1
+dep_bcda,1612217511,Distractor,1,Does Ann like to toogid? ,No,11791,no,1
+dep_bcda,1612217511,Distractor,2,Does Bea have a hondart? ,No,9925,no,0
+dep_bcda,1612217511,Distractor,4,Does Dana love to flomp? ,Yes,10786,yes,1
+dep_bcda,1612217511,Distractor,5,Does Eva hate zeptons? ,Yes,6160,yes,1
+dep_bcda,1612217511,Distractor,6,Does Faye have a taplor? ,No,8088,no,1
+dep_bcda,1612217511,Distractor,7,Does Gabe enjoy tuffros? ,Yes,6693,yes,1
+dep_bcda,1612217511,Distractor,9,Does Ivan know bezido? ,No,5220,no,1
+dep_bcda,1612217511,Distractor,10,Does Jill like to yoffa? ,Yes,4121,yes,1
+dep_bcda,1612217511,Distractor,11,Does Katie care about linters? ,No,11107,no,1
+dep_bcda,1612217511,Distractor,12,Does Leah enjoy folphies? ,Yes,4212,yes,1
+dep_bcda,1612217511,Distractor,14,Does Nate know karink? ,Yes,6171,yes,1
+dep_bcda,1612217511,Distractor,15,Does Owen like bisloor? ,No,6553,no,1
+dep_bcda,1612217511,Distractor,16,Does Peter hate flungo? ,Yes,3685,yes,1
+dep_bcda,1612217511,Distractor,17,Does Quinn care about vanoir? ,Yes,6128,yes,1
+dep_bcda,1612217511,Distractor,19,Does Steve love pavarons? ,Yes,3838,yes,1
+dep_bcda,1612217511,Distractor,20,Is Tracy a tarbon? ,No,5565,no,1
+dep_cdab,1612213540,Distractor,1,Does Ann like to toogid? ,No,22702,no,1
+dep_cdab,1612213540,Distractor,2,Does Bea have a hondart? ,Yes,14641,yes,1
+dep_cdab,1612213540,Distractor,4,Does Dana love to flomp? ,Yes,21074,yes,1
+dep_cdab,1612213540,Distractor,5,Does Eva hate zeptons? ,Yes,8595,yes,1
+dep_cdab,1612213540,Distractor,6,Does Faye have a taplor? ,No,9094,no,1
+dep_cdab,1612213540,Distractor,7,Does Gabe enjoy tuffros? ,No,18119,no,0
+dep_cdab,1612213540,Distractor,9,Does Ivan know bezido? ,No,14106,no,1
+dep_cdab,1612213540,Distractor,10,Does Jill like to yoffa? ,No,15255,no,0
+dep_cdab,1612213540,Distractor,11,Does Katie care about linters? ,No,8536,no,1
+dep_cdab,1612213540,Distractor,12,Does Leah enjoy folphies? ,Yes,16827,yes,1
+dep_cdab,1612213540,Distractor,14,Does Nate know karink? ,Yes,6826,yes,1
+dep_cdab,1612213540,Distractor,15,Does Owen like bisloor? ,No,8586,no,1
+dep_cdab,1612213540,Distractor,16,Does Peter hate flungo? ,Yes,7390,yes,1
+dep_cdab,1612213540,Distractor,17,Does Quinn care about vanoir? ,Yes,12203,yes,1
+dep_cdab,1612213540,Distractor,19,Does Steve love pavarons? ,Yes,8146,yes,1
+dep_cdab,1612213540,Distractor,20,Is Tracy a tarbon? ,No,6744,no,1
+dep_cdab,1612213669,Distractor,1,Does Ann like to toogid? ,No,14696,no,1
+dep_cdab,1612213669,Distractor,2,Does Bea have a hondart? ,No,5793,no,0
+dep_cdab,1612213669,Distractor,4,Does Dana love to flomp? ,Yes,9312,yes,1
+dep_cdab,1612213669,Distractor,5,Does Eva hate zeptons? ,Yes,5882,yes,1
+dep_cdab,1612213669,Distractor,6,Does Faye have a taplor? ,No,6115,no,1
+dep_cdab,1612213669,Distractor,7,Does Gabe enjoy tuffros? ,Yes,2916,yes,1
+dep_cdab,1612213669,Distractor,9,Does Ivan know bezido? ,No,4577,no,1
+dep_cdab,1612213669,Distractor,10,Does Jill like to yoffa? ,Yes,2829,yes,1
+dep_cdab,1612213669,Distractor,11,Does Katie care about linters? ,No,3101,no,1
+dep_cdab,1612213669,Distractor,12,Does Leah enjoy folphies? ,Yes,3144,yes,1
+dep_cdab,1612213669,Distractor,14,Does Nate know karink? ,Yes,2863,yes,1
+dep_cdab,1612213669,Distractor,15,Does Owen like bisloor? ,No,3147,no,1
+dep_cdab,1612213669,Distractor,16,Does Peter hate flungo? ,Yes,3657,yes,1
+dep_cdab,1612213669,Distractor,17,Does Quinn care about vanoir? ,Yes,3649,yes,1
+dep_cdab,1612213669,Distractor,19,Does Steve love pavarons? ,Yes,2983,yes,1
+dep_cdab,1612213669,Distractor,20,Is Tracy a tarbon? ,No,3963,no,1
+dep_cdab,1612214972,Distractor,1,Does Ann like to toogid? ,No,21895,no,1
+dep_cdab,1612214972,Distractor,2,Does Bea have a hondart? ,Yes,12061,yes,1
+dep_cdab,1612214972,Distractor,4,Does Dana love to flomp? ,Yes,9808,yes,1
+dep_cdab,1612214972,Distractor,5,Does Eva hate zeptons? ,Yes,10072,yes,1
+dep_cdab,1612214972,Distractor,6,Does Faye have a taplor? ,No,11361,no,1
+dep_cdab,1612214972,Distractor,7,Does Gabe enjoy tuffros? ,Yes,10263,yes,1
+dep_cdab,1612214972,Distractor,9,Does Ivan know bezido? ,No,14523,no,1
+dep_cdab,1612214972,Distractor,10,Does Jill like to yoffa? ,Yes,11021,yes,1
+dep_cdab,1612214972,Distractor,11,Does Katie care about linters? ,No,15343,no,1
+dep_cdab,1612214972,Distractor,12,Does Leah enjoy folphies? ,Yes,9417,yes,1
+dep_cdab,1612214972,Distractor,14,Does Nate know karink? ,Yes,11781,yes,1
+dep_cdab,1612214972,Distractor,15,Does Owen like bisloor? ,No,10425,no,1
+dep_cdab,1612214972,Distractor,16,Does Peter hate flungo? ,Yes,10431,yes,1
+dep_cdab,1612214972,Distractor,17,Does Quinn care about vanoir? ,Yes,9110,yes,1
+dep_cdab,1612214972,Distractor,19,Does Steve love pavarons? ,Yes,11244,yes,1
+dep_cdab,1612214972,Distractor,20,Is Tracy a tarbon? ,Yes,33593,yes,0
+dep_cdab,1612215545,Distractor,1,Does Ann like to toogid? ,No,9408,no,1
+dep_cdab,1612215545,Distractor,2,Does Bea have a hondart? ,Yes,4836,yes,1
+dep_cdab,1612215545,Distractor,4,Does Dana love to flomp? ,Yes,6462,yes,1
+dep_cdab,1612215545,Distractor,5,Does Eva hate zeptons? ,Yes,3366,yes,1
+dep_cdab,1612215545,Distractor,6,Does Faye have a taplor? ,No,4510,no,1
+dep_cdab,1612215545,Distractor,7,Does Gabe enjoy tuffros? ,Yes,4190,yes,1
+dep_cdab,1612215545,Distractor,9,Does Ivan know bezido? ,No,5205,no,1
+dep_cdab,1612215545,Distractor,10,Does Jill like to yoffa? ,Yes,2924,yes,1
+dep_cdab,1612215545,Distractor,11,Does Katie care about linters? ,No,7021,no,1
+dep_cdab,1612215545,Distractor,12,Does Leah enjoy folphies? ,Yes,2862,yes,1
+dep_cdab,1612215545,Distractor,14,Does Nate know karink? ,Yes,4399,yes,1
+dep_cdab,1612215545,Distractor,15,Does Owen like bisloor? ,No,2646,no,1
+dep_cdab,1612215545,Distractor,16,Does Peter hate flungo? ,Yes,3934,yes,1
+dep_cdab,1612215545,Distractor,17,Does Quinn care about vanoir? ,Yes,6259,yes,1
+dep_cdab,1612215545,Distractor,19,Does Steve love pavarons? ,Yes,3240,yes,1
+dep_cdab,1612215545,Distractor,20,Is Tracy a tarbon? ,No,12244,no,1
+dep_cdab,1612219553,Distractor,1,Does Ann like to toogid? ,No,22622,no,1
+dep_cdab,1612219553,Distractor,2,Does Bea have a hondart? ,Yes,12397,yes,1
+dep_cdab,1612219553,Distractor,4,Does Dana love to flomp? ,Yes,28170,yes,1
+dep_cdab,1612219553,Distractor,5,Does Eva hate zeptons? ,Yes,6704,yes,1
+dep_cdab,1612219553,Distractor,6,Does Faye have a taplor? ,No,14007,no,1
+dep_cdab,1612219553,Distractor,7,Does Gabe enjoy tuffros? ,Yes,9236,yes,1
+dep_cdab,1612219553,Distractor,9,Does Ivan know bezido? ,No,9715,no,1
+dep_cdab,1612219553,Distractor,10,Does Jill like to yoffa? ,Yes,14043,yes,1
+dep_cdab,1612219553,Distractor,11,Does Katie care about linters? ,No,9410,no,1
+dep_cdab,1612219553,Distractor,12,Does Leah enjoy folphies? ,Yes,13437,yes,1
+dep_cdab,1612219553,Distractor,14,Does Nate know karink? ,Yes,8270,yes,1
+dep_cdab,1612219553,Distractor,15,Does Owen like bisloor? ,No,7598,no,1
+dep_cdab,1612219553,Distractor,16,Does Peter hate flungo? ,Yes,25232,yes,1
+dep_cdab,1612219553,Distractor,17,Does Quinn care about vanoir? ,Yes,9404,yes,1
+dep_cdab,1612219553,Distractor,19,Does Steve love pavarons? ,Yes,5898,yes,1
+dep_cdab,1612219553,Distractor,20,Is Tracy a tarbon? ,Yes,29667,yes,0
+dep_dabc,1612213164,Distractor,1,Does Ann like to toogid? ,No,19794,no,1
+dep_dabc,1612213164,Distractor,2,Does Bea have a hondart? ,Yes,36237,yes,1
+dep_dabc,1612213164,Distractor,4,Does Dana love to flomp? ,Yes,11789,yes,1
+dep_dabc,1612213164,Distractor,5,Does Eva hate zeptons? ,Yes,10821,yes,1
+dep_dabc,1612213164,Distractor,6,Does Faye have a taplor? ,No,10453,no,1
+dep_dabc,1612213164,Distractor,7,Does Gabe enjoy tuffros? ,Yes,5333,yes,1
+dep_dabc,1612213164,Distractor,9,Does Ivan know bezido? ,No,6661,no,1
+dep_dabc,1612213164,Distractor,10,Does Jill like to yoffa? ,Yes,7453,yes,1
+dep_dabc,1612213164,Distractor,11,Does Katie care about linters? ,No,6662,no,1
+dep_dabc,1612213164,Distractor,12,Does Leah enjoy folphies? ,Yes,6981,yes,1
+dep_dabc,1612213164,Distractor,14,Does Nate know karink? ,Yes,4845,yes,1
+dep_dabc,1612213164,Distractor,15,Does Owen like bisloor? ,No,5741,no,1
+dep_dabc,1612213164,Distractor,16,Does Peter hate flungo? ,Yes,5118,yes,1
+dep_dabc,1612213164,Distractor,17,Does Quinn care about vanoir? ,Yes,4598,yes,1
+dep_dabc,1612213164,Distractor,19,Does Steve love pavarons? ,Yes,4662,yes,1
+dep_dabc,1612213164,Distractor,20,Is Tracy a tarbon? ,No,6421,no,1
+dep_dabc,1612213801,Distractor,1,Does Ann like to toogid? ,No,15990,no,1
+dep_dabc,1612213801,Distractor,2,Does Bea have a hondart? ,Yes,16969,yes,1
+dep_dabc,1612213801,Distractor,4,Does Dana love to flomp? ,Yes,8679,yes,1
+dep_dabc,1612213801,Distractor,5,Does Eva hate zeptons? ,Yes,6024,yes,1
+dep_dabc,1612213801,Distractor,6,Does Faye have a taplor? ,No,7765,no,1
+dep_dabc,1612213801,Distractor,7,Does Gabe enjoy tuffros? ,Yes,5682,yes,1
+dep_dabc,1612213801,Distractor,9,Does Ivan know bezido? ,No,6710,no,1
+dep_dabc,1612213801,Distractor,10,Does Jill like to yoffa? ,Yes,5339,yes,1
+dep_dabc,1612213801,Distractor,11,Does Katie care about linters? ,No,4709,no,1
+dep_dabc,1612213801,Distractor,12,Does Leah enjoy folphies? ,Yes,3329,yes,1
+dep_dabc,1612213801,Distractor,14,Does Nate know karink? ,Yes,4426,yes,1
+dep_dabc,1612213801,Distractor,15,Does Owen like bisloor? ,No,3342,no,1
+dep_dabc,1612213801,Distractor,16,Does Peter hate flungo? ,Yes,2826,yes,1
+dep_dabc,1612213801,Distractor,17,Does Quinn care about vanoir? ,Yes,2936,yes,1
+dep_dabc,1612213801,Distractor,19,Does Steve love pavarons? ,Yes,2420,yes,1
+dep_dabc,1612213801,Distractor,20,Is Tracy a tarbon? ,Yes,6260,yes,0
+dep_dabc,1612214433,Distractor,1,Does Ann like to toogid? ,No,25446,no,1
+dep_dabc,1612214433,Distractor,2,Does Bea have a hondart? ,Yes,18780,yes,1
+dep_dabc,1612214433,Distractor,4,Does Dana love to flomp? ,Yes,12452,yes,1
+dep_dabc,1612214433,Distractor,5,Does Eva hate zeptons? ,Yes,10727,yes,1
+dep_dabc,1612214433,Distractor,6,Does Faye have a taplor? ,No,8053,no,1
+dep_dabc,1612214433,Distractor,7,Does Gabe enjoy tuffros? ,Yes,36391,yes,1
+dep_dabc,1612214433,Distractor,9,Does Ivan know bezido? ,No,8153,no,1
+dep_dabc,1612214433,Distractor,10,Does Jill like to yoffa? ,Yes,8779,yes,1
+dep_dabc,1612214433,Distractor,11,Does Katie care about linters? ,No,6131,no,1
+dep_dabc,1612214433,Distractor,12,Does Leah enjoy folphies? ,Yes,6917,yes,1
+dep_dabc,1612214433,Distractor,14,Does Nate know karink? ,Yes,5676,yes,1
+dep_dabc,1612214433,Distractor,15,Does Owen like bisloor? ,No,10035,no,1
+dep_dabc,1612214433,Distractor,16,Does Peter hate flungo? ,Yes,7128,yes,1
+dep_dabc,1612214433,Distractor,17,Does Quinn care about vanoir? ,Yes,4721,yes,1
+dep_dabc,1612214433,Distractor,19,Does Steve love pavarons? ,Yes,4927,yes,1
+dep_dabc,1612214433,Distractor,20,Is Tracy a tarbon? ,Yes,31780,yes,0
+dep_dabc,1612215227,Distractor,1,Does Ann like to toogid? ,No,17314,no,1
+dep_dabc,1612215227,Distractor,2,Does Bea have a hondart? ,Yes,7761,yes,1
+dep_dabc,1612215227,Distractor,4,Does Dana love to flomp? ,Yes,9458,yes,1
+dep_dabc,1612215227,Distractor,5,Does Eva hate zeptons? ,Yes,7986,yes,1
+dep_dabc,1612215227,Distractor,6,Does Faye have a taplor? ,No,8323,no,1
+dep_dabc,1612215227,Distractor,7,Does Gabe enjoy tuffros? ,Yes,19449,yes,1
+dep_dabc,1612215227,Distractor,9,Does Ivan know bezido? ,No,5229,no,1
+dep_dabc,1612215227,Distractor,10,Does Jill like to yoffa? ,Yes,6993,yes,1
+dep_dabc,1612215227,Distractor,11,Does Katie care about linters? ,No,7875,no,1
+dep_dabc,1612215227,Distractor,12,Does Leah enjoy folphies? ,Yes,5146,yes,1
+dep_dabc,1612215227,Distractor,14,Does Nate know karink? ,Yes,4427,yes,1
+dep_dabc,1612215227,Distractor,15,Does Owen like bisloor? ,No,4466,no,1
+dep_dabc,1612215227,Distractor,16,Does Peter hate flungo? ,Yes,3962,yes,1
+dep_dabc,1612215227,Distractor,17,Does Quinn care about vanoir? ,Yes,5980,yes,1
+dep_dabc,1612215227,Distractor,19,Does Steve love pavarons? ,Yes,4098,yes,1
+dep_dabc,1612215227,Distractor,20,Is Tracy a tarbon? ,Yes,5485,yes,0
+dep_dabc,1612216838,Distractor,1,Does Ann like to toogid? ,No,4999,no,1
+dep_dabc,1612216838,Distractor,2,Does Bea have a hondart? ,Yes,7991,yes,1
+dep_dabc,1612216838,Distractor,4,Does Dana love to flomp? ,Yes,6229,yes,1
+dep_dabc,1612216838,Distractor,5,Does Eva hate zeptons? ,Yes,12257,yes,1
+dep_dabc,1612216838,Distractor,6,Does Faye have a taplor? ,No,5585,no,1
+dep_dabc,1612216838,Distractor,7,Does Gabe enjoy tuffros? ,Yes,4585,yes,1
+dep_dabc,1612216838,Distractor,9,Does Ivan know bezido? ,Yes,6705,yes,0
+dep_dabc,1612216838,Distractor,10,Does Jill like to yoffa? ,Yes,19268,yes,1
+dep_dabc,1612216838,Distractor,11,Does Katie care about linters? ,No,6881,no,1
+dep_dabc,1612216838,Distractor,12,Does Leah enjoy folphies? ,No,20346,no,0
+dep_dabc,1612216838,Distractor,14,Does Nate know karink? ,No,6431,no,0
+dep_dabc,1612216838,Distractor,15,Does Owen like bisloor? ,Yes,9385,yes,0
+dep_dabc,1612216838,Distractor,16,Does Peter hate flungo? ,No,6981,no,0
+dep_dabc,1612216838,Distractor,17,Does Quinn care about vanoir? ,Yes,8062,yes,1
+dep_dabc,1612216838,Distractor,19,Does Steve love pavarons? ,Yes,5986,yes,1
+dep_dabc,1612216838,Distractor,20,Is Tracy a tarbon? ,No,3372,no,1
+indep_abcd,1612213143,Distractor,1,Does Ann like to toogid? ,No,17316,no,1
+indep_abcd,1612213143,Distractor,2,Does Bea have a hondart? ,Yes,8025,yes,1
+indep_abcd,1612213143,Distractor,4,Does Dana love to flomp? ,No,5861,no,1
+indep_abcd,1612213143,Distractor,5,Does Eva hate zeptons? ,Yes,5552,yes,1
+indep_abcd,1612213143,Distractor,6,Does Faye have a taplor? ,No,6602,no,1
+indep_abcd,1612213143,Distractor,7,Does Gabe enjoy tuffros? ,Yes,6221,yes,1
+indep_abcd,1612213143,Distractor,9,Does Ivan know bezido? ,No,6553,no,1
+indep_abcd,1612213143,Distractor,10,Does Jill like to yoffa? ,Yes,4971,yes,1
+indep_abcd,1612213143,Distractor,11,Does Katie care about linters? ,No,4539,no,1
+indep_abcd,1612213143,Distractor,12,Does Leah enjoy folphies? ,Yes,4640,yes,1
+indep_abcd,1612213143,Distractor,14,Does Nate know karink? ,No,5051,no,1
+indep_abcd,1612213143,Distractor,15,Does Owen like bisloor? ,No,5199,no,1
+indep_abcd,1612213143,Distractor,16,Does Peter hate flungo? ,Yes,9541,yes,1
+indep_abcd,1612213143,Distractor,17,Does Quinn care about vanoir? ,No,4071,no,1
+indep_abcd,1612213143,Distractor,19,Does Steve love pavarons? ,No,3618,no,1
+indep_abcd,1612213143,Distractor,20,Is Tracy a tarbon? ,Yes,10153,yes,0
+indep_abcd,1612213288,Distractor,1,Does Ann like to toogid? ,No,16980,no,1
+indep_abcd,1612213288,Distractor,2,Does Bea have a hondart? ,Yes,10293,yes,1
+indep_abcd,1612213288,Distractor,4,Does Dana love to flomp? ,No,9237,no,1
+indep_abcd,1612213288,Distractor,5,Does Eva hate zeptons? ,Yes,7481,yes,1
+indep_abcd,1612213288,Distractor,6,Does Faye have a taplor? ,No,16285,no,1
+indep_abcd,1612213288,Distractor,7,Does Gabe enjoy tuffros? ,Yes,8096,yes,1
+indep_abcd,1612213288,Distractor,9,Does Ivan know bezido? ,No,9670,no,1
+indep_abcd,1612213288,Distractor,10,Does Jill like to yoffa? ,Yes,28258,yes,1
+indep_abcd,1612213288,Distractor,11,Does Katie care about linters? ,No,7682,no,1
+indep_abcd,1612213288,Distractor,12,Does Leah enjoy folphies? ,Yes,6504,yes,1
+indep_abcd,1612213288,Distractor,14,Does Nate know karink? ,No,11185,no,1
+indep_abcd,1612213288,Distractor,15,Does Owen like bisloor? ,No,55104,no,1
+indep_abcd,1612213288,Distractor,16,Does Peter hate flungo? ,Yes,4823,yes,1
+indep_abcd,1612213288,Distractor,17,Does Quinn care about vanoir? ,No,13081,no,1
+indep_abcd,1612213288,Distractor,19,Does Steve love pavarons? ,No,7180,no,1
+indep_abcd,1612213288,Distractor,20,Is Tracy a tarbon? ,No,23064,no,1
+indep_abcd,1612214277,Distractor,1,Does Ann like to toogid? ,No,61757,no,1
+indep_abcd,1612214277,Distractor,2,Does Bea have a hondart? ,Yes,28013,yes,1
+indep_abcd,1612214277,Distractor,4,Does Dana love to flomp? ,No,14292,no,1
+indep_abcd,1612214277,Distractor,5,Does Eva hate zeptons? ,Yes,16013,yes,1
+indep_abcd,1612214277,Distractor,6,Does Faye have a taplor? ,No,10043,no,1
+indep_abcd,1612214277,Distractor,7,Does Gabe enjoy tuffros? ,Yes,6560,yes,1
+indep_abcd,1612214277,Distractor,9,Does Ivan know bezido? ,No,6259,no,1
+indep_abcd,1612214277,Distractor,10,Does Jill like to yoffa? ,Yes,6048,yes,1
+indep_abcd,1612214277,Distractor,11,Does Katie care about linters? ,No,7200,no,1
+indep_abcd,1612214277,Distractor,12,Does Leah enjoy folphies? ,Yes,5548,yes,1
+indep_abcd,1612214277,Distractor,14,Does Nate know karink? ,No,8333,no,1
+indep_abcd,1612214277,Distractor,15,Does Owen like bisloor? ,No,5781,no,1
+indep_abcd,1612214277,Distractor,16,Does Peter hate flungo? ,Yes,5207,yes,1
+indep_abcd,1612214277,Distractor,17,Does Quinn care about vanoir? ,No,7794,no,1
+indep_abcd,1612214277,Distractor,19,Does Steve love pavarons? ,No,5259,no,1
+indep_abcd,1612214277,Distractor,20,Is Tracy a tarbon? ,Yes,9945,yes,0
+indep_abcd,1612214498,Distractor,1,Does Ann like to toogid? ,No,43096,no,1
+indep_abcd,1612214498,Distractor,2,Does Bea have a hondart? ,Yes,11226,yes,1
+indep_abcd,1612214498,Distractor,4,Does Dana love to flomp? ,No,21963,no,1
+indep_abcd,1612214498,Distractor,5,Does Eva hate zeptons? ,Yes,8318,yes,1
+indep_abcd,1612214498,Distractor,6,Does Faye have a taplor? ,Yes,11662,yes,0
+indep_abcd,1612214498,Distractor,7,Does Gabe enjoy tuffros? ,Yes,17439,yes,1
+indep_abcd,1612214498,Distractor,9,Does Ivan know bezido? ,No,8495,no,1
+indep_abcd,1612214498,Distractor,10,Does Jill like to yoffa? ,Yes,22760,yes,1
+indep_abcd,1612214498,Distractor,11,Does Katie care about linters? ,No,11549,no,1
+indep_abcd,1612214498,Distractor,12,Does Leah enjoy folphies? ,Yes,7210,yes,1
+indep_abcd,1612214498,Distractor,14,Does Nate know karink? ,No,9019,no,1
+indep_abcd,1612214498,Distractor,15,Does Owen like bisloor? ,No,14638,no,1
+indep_abcd,1612214498,Distractor,16,Does Peter hate flungo? ,Yes,7004,yes,1
+indep_abcd,1612214498,Distractor,17,Does Quinn care about vanoir? ,No,12401,no,1
+indep_abcd,1612214498,Distractor,19,Does Steve love pavarons? ,No,8591,no,1
+indep_abcd,1612214498,Distractor,20,Is Tracy a tarbon? ,Yes,10663,yes,0
+indep_abcd,1612215404,Distractor,1,Does Ann like to toogid? ,No,8353,no,1
+indep_abcd,1612215404,Distractor,2,Does Bea have a hondart? ,Yes,9832,yes,1
+indep_abcd,1612215404,Distractor,4,Does Dana love to flomp? ,No,15289,no,1
+indep_abcd,1612215404,Distractor,5,Does Eva hate zeptons? ,Yes,8912,yes,1
+indep_abcd,1612215404,Distractor,6,Does Faye have a taplor? ,No,4974,no,1
+indep_abcd,1612215404,Distractor,7,Does Gabe enjoy tuffros? ,Yes,6186,yes,1
+indep_abcd,1612215404,Distractor,9,Does Ivan know bezido? ,No,4874,no,1
+indep_abcd,1612215404,Distractor,10,Does Jill like to yoffa? ,Yes,9267,yes,1
+indep_abcd,1612215404,Distractor,11,Does Katie care about linters? ,No,6809,no,1
+indep_abcd,1612215404,Distractor,12,Does Leah enjoy folphies? ,Yes,41218,yes,1
+indep_abcd,1612215404,Distractor,14,Does Nate know karink? ,No,3896,no,1
+indep_abcd,1612215404,Distractor,15,Does Owen like bisloor? ,No,4308,no,1
+indep_abcd,1612215404,Distractor,16,Does Peter hate flungo? ,Yes,4938,yes,1
+indep_abcd,1612215404,Distractor,17,Does Quinn care about vanoir? ,No,4822,no,1
+indep_abcd,1612215404,Distractor,19,Does Steve love pavarons? ,No,4648,no,1
+indep_abcd,1612215404,Distractor,20,Is Tracy a tarbon? ,No,20351,no,1
+indep_bcda,1612213289,Distractor,1,Does Ann like to toogid? ,No,23374,no,1
+indep_bcda,1612213289,Distractor,2,Does Bea have a hondart? ,Yes,38411,yes,1
+indep_bcda,1612213289,Distractor,4,Does Dana love to flomp? ,No,14236,no,1
+indep_bcda,1612213289,Distractor,5,Does Eva hate zeptons? ,Yes,10111,yes,1
+indep_bcda,1612213289,Distractor,6,Does Faye have a taplor? ,No,26987,no,1
+indep_bcda,1612213289,Distractor,7,Does Gabe enjoy tuffros? ,Yes,15110,yes,1
+indep_bcda,1612213289,Distractor,9,Does Ivan know bezido? ,No,12576,no,1
+indep_bcda,1612213289,Distractor,10,Does Jill like to yoffa? ,Yes,7386,yes,1
+indep_bcda,1612213289,Distractor,11,Does Katie care about linters? ,No,13595,no,1
+indep_bcda,1612213289,Distractor,12,Does Leah enjoy folphies? ,Yes,7491,yes,1
+indep_bcda,1612213289,Distractor,14,Does Nate know karink? ,No,19924,no,1
+indep_bcda,1612213289,Distractor,15,Does Owen like bisloor? ,No,10048,no,1
+indep_bcda,1612213289,Distractor,16,Does Peter hate flungo? ,Yes,10358,yes,1
+indep_bcda,1612213289,Distractor,17,Does Quinn care about vanoir? ,No,16367,no,1
+indep_bcda,1612213289,Distractor,19,Does Steve love pavarons? ,No,9783,no,1
+indep_bcda,1612213289,Distractor,20,Is Tracy a tarbon? ,Yes,6321,yes,0
+indep_bcda,1612213610,Distractor,1,Does Ann like to toogid? ,No,11256,no,1
+indep_bcda,1612213610,Distractor,2,Does Bea have a hondart? ,Yes,8972,yes,1
+indep_bcda,1612213610,Distractor,4,Does Dana love to flomp? ,No,7610,no,1
+indep_bcda,1612213610,Distractor,5,Does Eva hate zeptons? ,Yes,9243,yes,1
+indep_bcda,1612213610,Distractor,6,Does Faye have a taplor? ,No,36894,no,1
+indep_bcda,1612213610,Distractor,7,Does Gabe enjoy tuffros? ,Yes,9229,yes,1
+indep_bcda,1612213610,Distractor,9,Does Ivan know bezido? ,No,10717,no,1
+indep_bcda,1612213610,Distractor,10,Does Jill like to yoffa? ,Yes,14410,yes,1
+indep_bcda,1612213610,Distractor,11,Does Katie care about linters? ,No,7740,no,1
+indep_bcda,1612213610,Distractor,12,Does Leah enjoy folphies? ,Yes,5495,yes,1
+indep_bcda,1612213610,Distractor,14,Does Nate know karink? ,No,13789,no,1
+indep_bcda,1612213610,Distractor,15,Does Owen like bisloor? ,No,5121,no,1
+indep_bcda,1612213610,Distractor,16,Does Peter hate flungo? ,Yes,4970,yes,1
+indep_bcda,1612213610,Distractor,17,Does Quinn care about vanoir? ,No,5622,no,1
+indep_bcda,1612213610,Distractor,19,Does Steve love pavarons? ,No,44175,no,1
+indep_bcda,1612213610,Distractor,20,Is Tracy a tarbon? ,No,48001,no,1
+indep_bcda,1612214122,Distractor,1,Does Ann like to toogid? ,No,11182,no,1
+indep_bcda,1612214122,Distractor,2,Does Bea have a hondart? ,Yes,23675,yes,1
+indep_bcda,1612214122,Distractor,4,Does Dana love to flomp? ,No,10708,no,1
+indep_bcda,1612214122,Distractor,5,Does Eva hate zeptons? ,Yes,7363,yes,1
+indep_bcda,1612214122,Distractor,6,Does Faye have a taplor? ,No,6241,no,1
+indep_bcda,1612214122,Distractor,7,Does Gabe enjoy tuffros? ,Yes,4588,yes,1
+indep_bcda,1612214122,Distractor,9,Does Ivan know bezido? ,No,12778,no,1
+indep_bcda,1612214122,Distractor,10,Does Jill like to yoffa? ,Yes,4356,yes,1
+indep_bcda,1612214122,Distractor,11,Does Katie care about linters? ,No,4924,no,1
+indep_bcda,1612214122,Distractor,12,Does Leah enjoy folphies? ,Yes,3696,yes,1
+indep_bcda,1612214122,Distractor,14,Does Nate know karink? ,No,4324,no,1
+indep_bcda,1612214122,Distractor,15,Does Owen like bisloor? ,No,4874,no,1
+indep_bcda,1612214122,Distractor,16,Does Peter hate flungo? ,Yes,6170,yes,1
+indep_bcda,1612214122,Distractor,17,Does Quinn care about vanoir? ,No,5675,no,1
+indep_bcda,1612214122,Distractor,19,Does Steve love pavarons? ,No,5127,no,1
+indep_bcda,1612214122,Distractor,20,Is Tracy a tarbon? ,No,5143,no,1
+indep_bcda,1612214622,Distractor,1,Does Ann like to toogid? ,No,16046,no,1
+indep_bcda,1612214622,Distractor,2,Does Bea have a hondart? ,Yes,12177,yes,1
+indep_bcda,1612214622,Distractor,4,Does Dana love to flomp? ,No,11302,no,1
+indep_bcda,1612214622,Distractor,5,Does Eva hate zeptons? ,Yes,21531,yes,1
+indep_bcda,1612214622,Distractor,6,Does Faye have a taplor? ,No,15917,no,1
+indep_bcda,1612214622,Distractor,7,Does Gabe enjoy tuffros? ,Yes,10923,yes,1
+indep_bcda,1612214622,Distractor,9,Does Ivan know bezido? ,No,12687,no,1
+indep_bcda,1612214622,Distractor,10,Does Jill like to yoffa? ,Yes,7686,yes,1
+indep_bcda,1612214622,Distractor,11,Does Katie care about linters? ,No,6268,no,1
+indep_bcda,1612214622,Distractor,12,Does Leah enjoy folphies? ,Yes,6613,yes,1
+indep_bcda,1612214622,Distractor,14,Does Nate know karink? ,No,7797,no,1
+indep_bcda,1612214622,Distractor,15,Does Owen like bisloor? ,No,8104,no,1
+indep_bcda,1612214622,Distractor,16,Does Peter hate flungo? ,Yes,6690,yes,1
+indep_bcda,1612214622,Distractor,17,Does Quinn care about vanoir? ,No,7250,no,1
+indep_bcda,1612214622,Distractor,19,Does Steve love pavarons? ,Yes,7455,yes,0
+indep_bcda,1612214622,Distractor,20,Is Tracy a tarbon? ,No,16365,no,1
+indep_bcda,1612215535,Distractor,1,Does Ann like to toogid? ,No,35946,no,1
+indep_bcda,1612215535,Distractor,2,Does Bea have a hondart? ,Yes,17737,yes,1
+indep_bcda,1612215535,Distractor,4,Does Dana love to flomp? ,No,14034,no,1
+indep_bcda,1612215535,Distractor,5,Does Eva hate zeptons? ,Yes,9559,yes,1
+indep_bcda,1612215535,Distractor,6,Does Faye have a taplor? ,No,12995,no,1
+indep_bcda,1612215535,Distractor,7,Does Gabe enjoy tuffros? ,Yes,6273,yes,1
+indep_bcda,1612215535,Distractor,9,Does Ivan know bezido? ,No,10191,no,1
+indep_bcda,1612215535,Distractor,10,Does Jill like to yoffa? ,Yes,11281,yes,1
+indep_bcda,1612215535,Distractor,11,Does Katie care about linters? ,No,10226,no,1
+indep_bcda,1612215535,Distractor,12,Does Leah enjoy folphies? ,Yes,7242,yes,1
+indep_bcda,1612215535,Distractor,14,Does Nate know karink? ,No,10218,no,1
+indep_bcda,1612215535,Distractor,15,Does Owen like bisloor? ,No,10118,no,1
+indep_bcda,1612215535,Distractor,16,Does Peter hate flungo? ,Yes,5319,yes,1
+indep_bcda,1612215535,Distractor,17,Does Quinn care about vanoir? ,No,9160,no,1
+indep_bcda,1612215535,Distractor,19,Does Steve love pavarons? ,No,8546,no,1
+indep_bcda,1612215535,Distractor,20,Is Tracy a tarbon? ,Yes,14074,yes,0
+indep_cdab,1612213096,Distractor,1,Does Ann like to toogid? ,No,32704,no,1
+indep_cdab,1612213096,Distractor,2,Does Bea have a hondart? ,Yes,9013,yes,1
+indep_cdab,1612213096,Distractor,4,Does Dana love to flomp? ,No,8615,no,1
+indep_cdab,1612213096,Distractor,5,Does Eva hate zeptons? ,Yes,7308,yes,1
+indep_cdab,1612213096,Distractor,6,Does Faye have a taplor? ,No,4452,no,1
+indep_cdab,1612213096,Distractor,7,Does Gabe enjoy tuffros? ,Yes,5523,yes,1
+indep_cdab,1612213096,Distractor,9,Does Ivan know bezido? ,No,4280,no,1
+indep_cdab,1612213096,Distractor,10,Does Jill like to yoffa? ,Yes,4164,yes,1
+indep_cdab,1612213096,Distractor,11,Does Katie care about linters? ,No,4617,no,1
+indep_cdab,1612213096,Distractor,12,Does Leah enjoy folphies? ,Yes,3505,yes,1
+indep_cdab,1612213096,Distractor,14,Does Nate know karink? ,No,3396,no,1
+indep_cdab,1612213096,Distractor,15,Does Owen like bisloor? ,No,4095,no,1
+indep_cdab,1612213096,Distractor,16,Does Peter hate flungo? ,Yes,3410,yes,1
+indep_cdab,1612213096,Distractor,17,Does Quinn care about vanoir? ,No,6214,no,1
+indep_cdab,1612213096,Distractor,19,Does Steve love pavarons? ,No,3862,no,1
+indep_cdab,1612213096,Distractor,20,Is Tracy a tarbon? ,Yes,18363,yes,0
+indep_cdab,1612214209,Distractor,1,Does Ann like to toogid? ,No,12428,no,1
+indep_cdab,1612214209,Distractor,2,Does Bea have a hondart? ,Yes,7799,yes,1
+indep_cdab,1612214209,Distractor,4,Does Dana love to flomp? ,No,6067,no,1
+indep_cdab,1612214209,Distractor,5,Does Eva hate zeptons? ,Yes,37692,yes,1
+indep_cdab,1612214209,Distractor,6,Does Faye have a taplor? ,No,7852,no,1
+indep_cdab,1612214209,Distractor,7,Does Gabe enjoy tuffros? ,Yes,3900,yes,1
+indep_cdab,1612214209,Distractor,9,Does Ivan know bezido? ,No,4415,no,1
+indep_cdab,1612214209,Distractor,10,Does Jill like to yoffa? ,Yes,4366,yes,1
+indep_cdab,1612214209,Distractor,11,Does Katie care about linters? ,No,4108,no,1
+indep_cdab,1612214209,Distractor,12,Does Leah enjoy folphies? ,Yes,5895,yes,1
+indep_cdab,1612214209,Distractor,14,Does Nate know karink? ,No,6218,no,1
+indep_cdab,1612214209,Distractor,15,Does Owen like bisloor? ,No,4578,no,1
+indep_cdab,1612214209,Distractor,16,Does Peter hate flungo? ,Yes,6484,yes,1
+indep_cdab,1612214209,Distractor,17,Does Quinn care about vanoir? ,No,9031,no,1
+indep_cdab,1612214209,Distractor,19,Does Steve love pavarons? ,No,32124,no,1
+indep_cdab,1612214209,Distractor,20,Is Tracy a tarbon? ,No,53783,no,1
+indep_cdab,1612214358,Distractor,1,Does Ann like to toogid? ,No,38389,no,1
+indep_cdab,1612214358,Distractor,2,Does Bea have a hondart? ,Yes,16528,yes,1
+indep_cdab,1612214358,Distractor,4,Does Dana love to flomp? ,No,13746,no,1
+indep_cdab,1612214358,Distractor,5,Does Eva hate zeptons? ,Yes,17699,yes,1
+indep_cdab,1612214358,Distractor,6,Does Faye have a taplor? ,No,19321,no,1
+indep_cdab,1612214358,Distractor,7,Does Gabe enjoy tuffros? ,Yes,16498,yes,1
+indep_cdab,1612214358,Distractor,9,Does Ivan know bezido? ,No,9738,no,1
+indep_cdab,1612214358,Distractor,10,Does Jill like to yoffa? ,Yes,11116,yes,1
+indep_cdab,1612214358,Distractor,11,Does Katie care about linters? ,No,13534,no,1
+indep_cdab,1612214358,Distractor,12,Does Leah enjoy folphies? ,Yes,8860,yes,1
+indep_cdab,1612214358,Distractor,14,Does Nate know karink? ,No,7364,no,1
+indep_cdab,1612214358,Distractor,15,Does Owen like bisloor? ,No,7917,no,1
+indep_cdab,1612214358,Distractor,16,Does Peter hate flungo? ,Yes,11280,yes,1
+indep_cdab,1612214358,Distractor,17,Does Quinn care about vanoir? ,No,7356,no,1
+indep_cdab,1612214358,Distractor,19,Does Steve love pavarons? ,No,5958,no,1
+indep_cdab,1612214358,Distractor,20,Is Tracy a tarbon? ,No,8925,no,1
+indep_cdab,1612215436,Distractor,1,Does Ann like to toogid? ,No,21604,no,1
+indep_cdab,1612215436,Distractor,2,Does Bea have a hondart? ,Yes,28296,yes,1
+indep_cdab,1612215436,Distractor,4,Does Dana love to flomp? ,No,25100,no,1
+indep_cdab,1612215436,Distractor,5,Does Eva hate zeptons? ,Yes,11554,yes,1
+indep_cdab,1612215436,Distractor,6,Does Faye have a taplor? ,No,13652,no,1
+indep_cdab,1612215436,Distractor,7,Does Gabe enjoy tuffros? ,Yes,11988,yes,1
+indep_cdab,1612215436,Distractor,9,Does Ivan know bezido? ,No,23104,no,1
+indep_cdab,1612215436,Distractor,10,Does Jill like to yoffa? ,Yes,9431,yes,1
+indep_cdab,1612215436,Distractor,11,Does Katie care about linters? ,No,9050,no,1
+indep_cdab,1612215436,Distractor,12,Does Leah enjoy folphies? ,Yes,17112,yes,1
+indep_cdab,1612215436,Distractor,14,Does Nate know karink? ,No,10147,no,1
+indep_cdab,1612215436,Distractor,15,Does Owen like bisloor? ,No,12307,no,1
+indep_cdab,1612215436,Distractor,16,Does Peter hate flungo? ,Yes,10972,yes,1
+indep_cdab,1612215436,Distractor,17,Does Quinn care about vanoir? ,No,10101,no,1
+indep_cdab,1612215436,Distractor,19,Does Steve love pavarons? ,No,14881,no,1
+indep_cdab,1612215436,Distractor,20,Is Tracy a tarbon? ,No,15651,no,1
+indep_cdab,1612215623,Distractor,1,Does Ann like to toogid? ,No,55783,no,1
+indep_cdab,1612215623,Distractor,2,Does Bea have a hondart? ,Yes,49315,yes,1
+indep_cdab,1612215623,Distractor,4,Does Dana love to flomp? ,No,14940,no,1
+indep_cdab,1612215623,Distractor,5,Does Eva hate zeptons? ,Yes,19377,yes,1
+indep_cdab,1612215623,Distractor,6,Does Faye have a taplor? ,No,14854,no,1
+indep_cdab,1612215623,Distractor,7,Does Gabe enjoy tuffros? ,Yes,19970,yes,1
+indep_cdab,1612215623,Distractor,9,Does Ivan know bezido? ,No,15978,no,1
+indep_cdab,1612215623,Distractor,10,Does Jill like to yoffa? ,Yes,17881,yes,1
+indep_cdab,1612215623,Distractor,11,Does Katie care about linters? ,No,16287,no,1
+indep_cdab,1612215623,Distractor,12,Does Leah enjoy folphies? ,Yes,14418,yes,1
+indep_cdab,1612215623,Distractor,14,Does Nate know karink? ,No,11380,no,1
+indep_cdab,1612215623,Distractor,15,Does Owen like bisloor? ,No,20625,no,1
+indep_cdab,1612215623,Distractor,16,Does Peter hate flungo? ,Yes,13407,yes,1
+indep_cdab,1612215623,Distractor,17,Does Quinn care about vanoir? ,No,30575,no,1
+indep_cdab,1612215623,Distractor,19,Does Steve love pavarons? ,No,17845,no,1
+indep_cdab,1612215623,Distractor,20,Is Tracy a tarbon? ,No,24122,no,1
+indep_dabc,1612213965,Distractor,1,Does Ann like to toogid? ,No,18360,no,1
+indep_dabc,1612213965,Distractor,2,Does Bea have a hondart? ,Yes,17587,yes,1
+indep_dabc,1612213965,Distractor,4,Does Dana love to flomp? ,No,8414,no,1
+indep_dabc,1612213965,Distractor,5,Does Eva hate zeptons? ,Yes,8225,yes,1
+indep_dabc,1612213965,Distractor,6,Does Faye have a taplor? ,No,11834,no,1
+indep_dabc,1612213965,Distractor,7,Does Gabe enjoy tuffros? ,Yes,19587,yes,1
+indep_dabc,1612213965,Distractor,9,Does Ivan know bezido? ,No,26552,no,1
+indep_dabc,1612213965,Distractor,10,Does Jill like to yoffa? ,Yes,33555,yes,1
+indep_dabc,1612213965,Distractor,11,Does Katie care about linters? ,No,10412,no,1
+indep_dabc,1612213965,Distractor,12,Does Leah enjoy folphies? ,Yes,13832,yes,1
+indep_dabc,1612213965,Distractor,14,Does Nate know karink? ,No,10976,no,1
+indep_dabc,1612213965,Distractor,15,Does Owen like bisloor? ,No,8382,no,1
+indep_dabc,1612213965,Distractor,16,Does Peter hate flungo? ,Yes,10017,yes,1
+indep_dabc,1612213965,Distractor,17,Does Quinn care about vanoir? ,No,15636,no,1
+indep_dabc,1612213965,Distractor,19,Does Steve love pavarons? ,No,12857,no,1
+indep_dabc,1612213965,Distractor,20,Is Tracy a tarbon? ,No,15843,no,1
+indep_dabc,1612213983,Distractor,1,Does Ann like to toogid? ,No,39044,no,1
+indep_dabc,1612213983,Distractor,2,Does Bea have a hondart? ,Yes,13864,yes,1
+indep_dabc,1612213983,Distractor,4,Does Dana love to flomp? ,No,11660,no,1
+indep_dabc,1612213983,Distractor,5,Does Eva hate zeptons? ,Yes,14719,yes,1
+indep_dabc,1612213983,Distractor,6,Does Faye have a taplor? ,No,15301,no,1
+indep_dabc,1612213983,Distractor,7,Does Gabe enjoy tuffros? ,Yes,18220,yes,1
+indep_dabc,1612213983,Distractor,9,Does Ivan know bezido? ,No,12384,no,1
+indep_dabc,1612213983,Distractor,10,Does Jill like to yoffa? ,Yes,11934,yes,1
+indep_dabc,1612213983,Distractor,11,Does Katie care about linters? ,No,12216,no,1
+indep_dabc,1612213983,Distractor,12,Does Leah enjoy folphies? ,Yes,11950,yes,1
+indep_dabc,1612213983,Distractor,14,Does Nate know karink? ,No,8594,no,1
+indep_dabc,1612213983,Distractor,15,Does Owen like bisloor? ,No,10953,no,1
+indep_dabc,1612213983,Distractor,16,Does Peter hate flungo? ,Yes,7906,yes,1
+indep_dabc,1612213983,Distractor,17,Does Quinn care about vanoir? ,No,12400,no,1
+indep_dabc,1612213983,Distractor,19,Does Steve love pavarons? ,No,9171,no,1
+indep_dabc,1612213983,Distractor,20,Is Tracy a tarbon? ,Yes,15256,yes,0
+indep_dabc,1612214343,Distractor,1,Does Ann like to toogid? ,No,41342,no,1
+indep_dabc,1612214343,Distractor,2,Does Bea have a hondart? ,Yes,40561,yes,1
+indep_dabc,1612214343,Distractor,4,Does Dana love to flomp? ,No,13277,no,1
+indep_dabc,1612214343,Distractor,5,Does Eva hate zeptons? ,Yes,12305,yes,1
+indep_dabc,1612214343,Distractor,6,Does Faye have a taplor? ,No,21014,no,1
+indep_dabc,1612214343,Distractor,7,Does Gabe enjoy tuffros? ,Yes,10999,yes,1
+indep_dabc,1612214343,Distractor,9,Does Ivan know bezido? ,No,22964,no,1
+indep_dabc,1612214343,Distractor,10,Does Jill like to yoffa? ,Yes,10642,yes,1
+indep_dabc,1612214343,Distractor,11,Does Katie care about linters? ,No,13319,no,1
+indep_dabc,1612214343,Distractor,12,Does Leah enjoy folphies? ,Yes,10130,yes,1
+indep_dabc,1612214343,Distractor,14,Does Nate know karink? ,No,11391,no,1
+indep_dabc,1612214343,Distractor,15,Does Owen like bisloor? ,No,16302,no,1
+indep_dabc,1612214343,Distractor,16,Does Peter hate flungo? ,Yes,17512,yes,1
+indep_dabc,1612214343,Distractor,17,Does Quinn care about vanoir? ,No,14363,no,1
+indep_dabc,1612214343,Distractor,19,Does Steve love pavarons? ,No,11381,no,1
+indep_dabc,1612214343,Distractor,20,Is Tracy a tarbon? ,No,20013,no,1
+indep_dabc,1612214466,Distractor,1,Does Ann like to toogid? ,No,26857,no,1
+indep_dabc,1612214466,Distractor,2,Does Bea have a hondart? ,Yes,22114,yes,1
+indep_dabc,1612214466,Distractor,4,Does Dana love to flomp? ,No,10702,no,1
+indep_dabc,1612214466,Distractor,5,Does Eva hate zeptons? ,Yes,9853,yes,1
+indep_dabc,1612214466,Distractor,6,Does Faye have a taplor? ,No,6830,no,1
+indep_dabc,1612214466,Distractor,7,Does Gabe enjoy tuffros? ,Yes,11075,yes,1
+indep_dabc,1612214466,Distractor,9,Does Ivan know bezido? ,No,9624,no,1
+indep_dabc,1612214466,Distractor,10,Does Jill like to yoffa? ,Yes,4677,yes,1
+indep_dabc,1612214466,Distractor,11,Does Katie care about linters? ,No,7379,no,1
+indep_dabc,1612214466,Distractor,12,Does Leah enjoy folphies? ,Yes,10822,yes,1
+indep_dabc,1612214466,Distractor,14,Does Nate know karink? ,No,5589,no,1
+indep_dabc,1612214466,Distractor,15,Does Owen like bisloor? ,No,7076,no,1
+indep_dabc,1612214466,Distractor,16,Does Peter hate flungo? ,Yes,6256,yes,1
+indep_dabc,1612214466,Distractor,17,Does Quinn care about vanoir? ,No,7929,no,1
+indep_dabc,1612214466,Distractor,19,Does Steve love pavarons? ,No,8011,no,1
+indep_dabc,1612214466,Distractor,20,Is Tracy a tarbon? ,No,71779,no,1
+indep_dabc,1612217134,Distractor,1,Does Ann like to toogid? ,No,11441,no,1
+indep_dabc,1612217134,Distractor,2,Does Bea have a hondart? ,Yes,6236,yes,1
+indep_dabc,1612217134,Distractor,4,Does Dana love to flomp? ,No,6117,no,1
+indep_dabc,1612217134,Distractor,5,Does Eva hate zeptons? ,No,6924,no,0
+indep_dabc,1612217134,Distractor,6,Does Faye have a taplor? ,No,12158,no,1
+indep_dabc,1612217134,Distractor,7,Does Gabe enjoy tuffros? ,Yes,7112,yes,1
+indep_dabc,1612217134,Distractor,9,Does Ivan know bezido? ,No,10605,no,1
+indep_dabc,1612217134,Distractor,10,Does Jill like to yoffa? ,Yes,8206,yes,1
+indep_dabc,1612217134,Distractor,11,Does Katie care about linters? ,No,6708,no,1
+indep_dabc,1612217134,Distractor,12,Does Leah enjoy folphies? ,Yes,9182,yes,1
+indep_dabc,1612217134,Distractor,14,Does Nate know karink? ,No,6572,no,1
+indep_dabc,1612217134,Distractor,15,Does Owen like bisloor? ,No,6856,no,1
+indep_dabc,1612217134,Distractor,16,Does Peter hate flungo? ,Yes,10182,yes,1
+indep_dabc,1612217134,Distractor,17,Does Quinn care about vanoir? ,No,7862,no,1
+indep_dabc,1612217134,Distractor,19,Does Steve love pavarons? ,No,7708,no,1
+indep_dabc,1612217134,Distractor,20,Is Tracy a tarbon? ,No,11971,no,1
+dep_abcd,1612213183,Dependence,3,Does Cece have a dord? ,No,17827,no,0
+dep_abcd,1612213183,Dependence,8,Does Helen have a lealo? ,Yes,27415,yes,1
+dep_abcd,1612213183,Dependence,13,Does Marc have a lammor? ,No,12739,no,0
+dep_abcd,1612213183,Dependence,18,Does Rita have a hoopler? ,No,7698,no,0
+dep_abcd,1612213274,Dependence,3,Does Cece have a dord? ,Yes,27679,yes,1
+dep_abcd,1612213274,Dependence,8,Does Helen have a lealo? ,Yes,6149,yes,1
+dep_abcd,1612213274,Dependence,13,Does Marc have a lammor? ,Yes,5949,yes,1
+dep_abcd,1612213274,Dependence,18,Does Rita have a hoopler? ,Yes,5094,yes,1
+dep_abcd,1612213385,Dependence,3,Does Cece have a dord? ,No,13730,no,0
+dep_abcd,1612213385,Dependence,8,Does Helen have a lealo? ,No,12977,no,0
+dep_abcd,1612213385,Dependence,13,Does Marc have a lammor? ,Yes,9612,yes,1
+dep_abcd,1612213385,Dependence,18,Does Rita have a hoopler? ,No,4196,no,0
+dep_abcd,1612214349,Dependence,3,Does Cece have a dord? ,Yes,13995,yes,1
+dep_abcd,1612214349,Dependence,8,Does Helen have a lealo? ,Yes,9552,yes,1
+dep_abcd,1612214349,Dependence,13,Does Marc have a lammor? ,Yes,8709,yes,1
+dep_abcd,1612214349,Dependence,18,Does Rita have a hoopler? ,Yes,10415,yes,1
+dep_abcd,1612215261,Dependence,3,Does Cece have a dord? ,Yes,32361,yes,1
+dep_abcd,1612215261,Dependence,8,Does Helen have a lealo? ,Yes,32092,yes,1
+dep_abcd,1612215261,Dependence,13,Does Marc have a lammor? ,Yes,17203,yes,1
+dep_abcd,1612215261,Dependence,18,Does Rita have a hoopler? ,Yes,5924,yes,1
+dep_bcda,1612213677,Dependence,3,Does Helen have a lealo? ,No,30076,no,0
+dep_bcda,1612213677,Dependence,8,Does Marc have a lammor? ,No,11643,no,0
+dep_bcda,1612213677,Dependence,13,Does Rita have a hoopler? ,No,6965,no,0
+dep_bcda,1612213677,Dependence,18,Does Cece have a dord? ,No,5216,no,0
+dep_bcda,1612214031,Dependence,3,Does Helen have a lealo? ,Yes,40855,yes,1
+dep_bcda,1612214031,Dependence,8,Does Marc have a lammor? ,Yes,19935,yes,1
+dep_bcda,1612214031,Dependence,13,Does Rita have a hoopler? ,Yes,9024,yes,1
+dep_bcda,1612214031,Dependence,18,Does Cece have a dord? ,Yes,10469,yes,1
+dep_bcda,1612214065,Dependence,3,Does Helen have a lealo? ,No,5124,no,0
+dep_bcda,1612214065,Dependence,8,Does Marc have a lammor? ,Yes,3187,yes,1
+dep_bcda,1612214065,Dependence,13,Does Rita have a hoopler? ,Yes,4277,yes,1
+dep_bcda,1612214065,Dependence,18,Does Cece have a dord? ,Yes,2965,yes,1
+dep_bcda,1612214192,Dependence,3,Does Helen have a lealo? ,Yes,12821,yes,1
+dep_bcda,1612214192,Dependence,8,Does Marc have a lammor? ,Yes,11699,yes,1
+dep_bcda,1612214192,Dependence,13,Does Rita have a hoopler? ,Yes,13527,yes,1
+dep_bcda,1612214192,Dependence,18,Does Cece have a dord? ,Yes,12400,yes,1
+dep_bcda,1612217511,Dependence,3,Does Helen have a lealo? ,Yes,17649,yes,1
+dep_bcda,1612217511,Dependence,8,Does Marc have a lammor? ,Yes,6914,yes,1
+dep_bcda,1612217511,Dependence,13,Does Rita have a hoopler? ,Yes,7653,yes,1
+dep_bcda,1612217511,Dependence,18,Does Cece have a dord? ,No,6608,no,0
+dep_cdab,1612213540,Dependence,3,Does Marc have a lammor? ,No,8528,no,0
+dep_cdab,1612213540,Dependence,8,Does Rita have a hoopler? ,Yes,17980,yes,1
+dep_cdab,1612213540,Dependence,13,Does Cece have a dord? ,Yes,20416,yes,1
+dep_cdab,1612213540,Dependence,18,Does Helen have a lealo? ,Yes,21906,yes,1
+dep_cdab,1612213669,Dependence,3,Does Marc have a lammor? ,No,9333,no,0
+dep_cdab,1612213669,Dependence,8,Does Rita have a hoopler? ,No,12283,no,0
+dep_cdab,1612213669,Dependence,13,Does Cece have a dord? ,No,5450,no,0
+dep_cdab,1612213669,Dependence,18,Does Helen have a lealo? ,No,6724,no,0
+dep_cdab,1612214972,Dependence,3,Does Marc have a lammor? ,Yes,48056,yes,1
+dep_cdab,1612214972,Dependence,8,Does Rita have a hoopler? ,Yes,18264,yes,1
+dep_cdab,1612214972,Dependence,13,Does Cece have a dord? ,Yes,19019,yes,1
+dep_cdab,1612214972,Dependence,18,Does Helen have a lealo? ,Yes,24435,yes,1
+dep_cdab,1612215545,Dependence,3,Does Marc have a lammor? ,Yes,19277,yes,1
+dep_cdab,1612215545,Dependence,8,Does Rita have a hoopler? ,Yes,7166,yes,1
+dep_cdab,1612215545,Dependence,13,Does Cece have a dord? ,Yes,14542,yes,1
+dep_cdab,1612215545,Dependence,18,Does Helen have a lealo? ,Yes,5575,yes,1
+dep_cdab,1612219553,Dependence,3,Does Marc have a lammor? ,Yes,43166,yes,1
+dep_cdab,1612219553,Dependence,8,Does Rita have a hoopler? ,Yes,24805,yes,1
+dep_cdab,1612219553,Dependence,13,Does Cece have a dord? ,Yes,13594,yes,1
+dep_cdab,1612219553,Dependence,18,Does Helen have a lealo? ,Yes,8933,yes,1
+dep_dabc,1612213164,Dependence,3,Does Rita have a hoopler? ,No,25869,no,0
+dep_dabc,1612213164,Dependence,8,Does Cece have a dord? ,No,11661,no,0
+dep_dabc,1612213164,Dependence,13,Does Helen have a lealo? ,No,7605,no,0
+dep_dabc,1612213164,Dependence,18,Does Marc have a lammor? ,No,4596,no,0
+dep_dabc,1612213801,Dependence,3,Does Rita have a hoopler? ,Yes,23121,yes,1
+dep_dabc,1612213801,Dependence,8,Does Cece have a dord? ,Yes,8018,yes,1
+dep_dabc,1612213801,Dependence,13,Does Helen have a lealo? ,Yes,5823,yes,1
+dep_dabc,1612213801,Dependence,18,Does Marc have a lammor? ,Yes,3281,yes,1
+dep_dabc,1612214433,Dependence,3,Does Rita have a hoopler? ,Yes,16633,yes,1
+dep_dabc,1612214433,Dependence,8,Does Cece have a dord? ,Yes,11136,yes,1
+dep_dabc,1612214433,Dependence,13,Does Helen have a lealo? ,Yes,7185,yes,1
+dep_dabc,1612214433,Dependence,18,Does Marc have a lammor? ,Yes,4460,yes,1
+dep_dabc,1612215227,Dependence,3,Does Rita have a hoopler? ,Yes,32241,yes,1
+dep_dabc,1612215227,Dependence,8,Does Cece have a dord? ,No,15850,no,0
+dep_dabc,1612215227,Dependence,13,Does Helen have a lealo? ,Yes,10459,yes,1
+dep_dabc,1612215227,Dependence,18,Does Marc have a lammor? ,Yes,5827,yes,1
+dep_dabc,1612216838,Dependence,3,Does Rita have a hoopler? ,No,18182,no,0
+dep_dabc,1612216838,Dependence,8,Does Cece have a dord? ,No,16077,no,0
+dep_dabc,1612216838,Dependence,13,Does Helen have a lealo? ,No,1712,no,0
+dep_dabc,1612216838,Dependence,18,Does Marc have a lammor? ,No,6833,no,0
+indep_abcd,1612213143,Independence,3,Does Cece have a dord? ,Yes,10689,yes,1
+indep_abcd,1612213143,Independence,8,Does Helen have a lealo? ,Yes,6750,yes,1
+indep_abcd,1612213143,Independence,13,Does Marc have a lammor? ,Yes,4199,yes,1
+indep_abcd,1612213143,Independence,18,Does Rita have a hoopler? ,Yes,4606,yes,1
+indep_abcd,1612213288,Independence,3,Does Cece have a dord? ,Yes,22484,yes,1
+indep_abcd,1612213288,Independence,8,Does Helen have a lealo? ,Yes,15606,yes,1
+indep_abcd,1612213288,Independence,13,Does Marc have a lammor? ,Yes,8563,yes,1
+indep_abcd,1612213288,Independence,18,Does Rita have a hoopler? ,Yes,6687,yes,1
+indep_abcd,1612214277,Independence,3,Does Cece have a dord? ,Yes,52024,yes,1
+indep_abcd,1612214277,Independence,8,Does Helen have a lealo? ,Yes,9305,yes,1
+indep_abcd,1612214277,Independence,13,Does Marc have a lammor? ,Yes,9631,yes,1
+indep_abcd,1612214277,Independence,18,Does Rita have a hoopler? ,Yes,8645,yes,1
+indep_abcd,1612214498,Independence,3,Does Cece have a dord? ,No,15801,no,0
+indep_abcd,1612214498,Independence,8,Does Helen have a lealo? ,Yes,17121,yes,1
+indep_abcd,1612214498,Independence,13,Does Marc have a lammor? ,No,20292,no,0
+indep_abcd,1612214498,Independence,18,Does Rita have a hoopler? ,Yes,21882,yes,1
+indep_abcd,1612215404,Independence,3,Does Cece have a dord? ,Yes,19395,yes,1
+indep_abcd,1612215404,Independence,8,Does Helen have a lealo? ,Yes,49698,yes,1
+indep_abcd,1612215404,Independence,13,Does Marc have a lammor? ,Yes,6757,yes,1
+indep_abcd,1612215404,Independence,18,Does Rita have a hoopler? ,Yes,4994,yes,1
+indep_bcda,1612213289,Independence,3,Does Helen have a lealo? ,No,39322,no,0
+indep_bcda,1612213289,Independence,8,Does Marc have a lammor? ,No,15005,no,0
+indep_bcda,1612213289,Independence,13,Does Rita have a hoopler? ,Yes,13266,yes,1
+indep_bcda,1612213289,Independence,18,Does Cece have a dord? ,No,12692,no,0
+indep_bcda,1612213610,Independence,3,Does Helen have a lealo? ,Yes,22090,yes,1
+indep_bcda,1612213610,Independence,8,Does Marc have a lammor? ,Yes,37034,yes,1
+indep_bcda,1612213610,Independence,13,Does Rita have a hoopler? ,Yes,10657,yes,1
+indep_bcda,1612213610,Independence,18,Does Cece have a dord? ,Yes,10606,yes,1
+indep_bcda,1612214122,Independence,3,Does Helen have a lealo? ,No,10355,no,0
+indep_bcda,1612214122,Independence,8,Does Marc have a lammor? ,No,13657,no,0
+indep_bcda,1612214122,Independence,13,Does Rita have a hoopler? ,No,15113,no,0
+indep_bcda,1612214122,Independence,18,Does Cece have a dord? ,Yes,11465,yes,1
+indep_bcda,1612214622,Independence,3,Does Helen have a lealo? ,No,25600,no,0
+indep_bcda,1612214622,Independence,8,Does Marc have a lammor? ,No,14023,no,0
+indep_bcda,1612214622,Independence,13,Does Rita have a hoopler? ,No,7108,no,0
+indep_bcda,1612214622,Independence,18,Does Cece have a dord? ,No,6380,no,0
+indep_bcda,1612215535,Independence,3,Does Helen have a lealo? ,No,32550,no,0
+indep_bcda,1612215535,Independence,8,Does Marc have a lammor? ,No,15982,no,0
+indep_bcda,1612215535,Independence,13,Does Rita have a hoopler? ,No,9818,no,0
+indep_bcda,1612215535,Independence,18,Does Cece have a dord? ,No,37040,no,0
+indep_cdab,1612213096,Independence,3,Does Marc have a lammor? ,Yes,16869,yes,1
+indep_cdab,1612213096,Independence,8,Does Rita have a hoopler? ,Yes,12803,yes,1
+indep_cdab,1612213096,Independence,13,Does Cece have a dord? ,Yes,9394,yes,1
+indep_cdab,1612213096,Independence,18,Does Helen have a lealo? ,Yes,9276,yes,1
+indep_cdab,1612214209,Independence,3,Does Marc have a lammor? ,No,9578,no,0
+indep_cdab,1612214209,Independence,8,Does Rita have a hoopler? ,Yes,20827,yes,1
+indep_cdab,1612214209,Independence,13,Does Cece have a dord? ,Yes,22547,yes,1
+indep_cdab,1612214209,Independence,18,Does Helen have a lealo? ,No,19571,no,0
+indep_cdab,1612214358,Independence,3,Does Marc have a lammor? ,Yes,36593,yes,1
+indep_cdab,1612214358,Independence,8,Does Rita have a hoopler? ,No,21444,no,0
+indep_cdab,1612214358,Independence,13,Does Cece have a dord? ,No,11207,no,0
+indep_cdab,1612214358,Independence,18,Does Helen have a lealo? ,No,6837,no,0
+indep_cdab,1612215436,Independence,3,Does Marc have a lammor? ,No,35559,no,0
+indep_cdab,1612215436,Independence,8,Does Rita have a hoopler? ,No,51873,no,0
+indep_cdab,1612215436,Independence,13,Does Cece have a dord? ,Yes,18607,yes,1
+indep_cdab,1612215436,Independence,18,Does Helen have a lealo? ,Yes,28263,yes,1
+indep_cdab,1612215623,Independence,3,Does Marc have a lammor? ,No,68115,no,0
+indep_cdab,1612215623,Independence,8,Does Rita have a hoopler? ,No,32480,no,0
+indep_cdab,1612215623,Independence,13,Does Cece have a dord? ,No,33213,no,0
+indep_cdab,1612215623,Independence,18,Does Helen have a lealo? ,No,22639,no,0
+indep_dabc,1612213965,Independence,3,Does Rita have a hoopler? ,No,42457,no,0
+indep_dabc,1612213965,Independence,8,Does Cece have a dord? ,No,11811,no,0
+indep_dabc,1612213965,Independence,13,Does Helen have a lealo? ,No,16564,no,0
+indep_dabc,1612213965,Independence,18,Does Marc have a lammor? ,No,27731,no,0
+indep_dabc,1612213983,Independence,3,Does Rita have a hoopler? ,No,22446,no,0
+indep_dabc,1612213983,Independence,8,Does Cece have a dord? ,Yes,13600,yes,1
+indep_dabc,1612213983,Independence,13,Does Helen have a lealo? ,Yes,13050,yes,1
+indep_dabc,1612213983,Independence,18,Does Marc have a lammor? ,Yes,23441,yes,1
+indep_dabc,1612214343,Independence,3,Does Rita have a hoopler? ,No,76399,no,0
+indep_dabc,1612214343,Independence,8,Does Cece have a dord? ,No,29369,no,0
+indep_dabc,1612214343,Independence,13,Does Helen have a lealo? ,No,24457,no,0
+indep_dabc,1612214343,Independence,18,Does Marc have a lammor? ,No,18875,no,0
+indep_dabc,1612214466,Independence,3,Does Rita have a hoopler? ,Yes,46401,yes,1
+indep_dabc,1612214466,Independence,8,Does Cece have a dord? ,Yes,12822,yes,1
+indep_dabc,1612214466,Independence,13,Does Helen have a lealo? ,Yes,5128,yes,1
+indep_dabc,1612214466,Independence,18,Does Marc have a lammor? ,Yes,7834,yes,1
+indep_dabc,1612217134,Independence,3,Does Rita have a hoopler? ,No,9941,no,0
+indep_dabc,1612217134,Independence,8,Does Cece have a dord? ,No,11916,no,0
+indep_dabc,1612217134,Independence,13,Does Helen have a lealo? ,No,12932,no,0
+indep_dabc,1612217134,Independence,18,Does Marc have a lammor? ,Yes,10981,yes,1

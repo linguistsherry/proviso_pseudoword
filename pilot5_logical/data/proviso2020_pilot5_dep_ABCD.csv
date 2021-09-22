@@ -1,0 +1,101 @@
+exp,id,cond,item,question,resp,rt
+dep_abcd,1612213183,exp.distractor.no.non_cond,1,Does Ann like to toogid? ,No,15472
+dep_abcd,1612213183,exp.distractor.yes.conditional,2,Does Bea have a hondart? ,Yes,20003
+dep_abcd,1612213183,exp.dependent.no.conditional,3,Does Cece have a dord? ,No,17827
+dep_abcd,1612213183,exp.distractor.yes.non_cond,4,Does Dana love to flomp? ,Yes,8222
+dep_abcd,1612213183,exp.distractor.yes.non_cond,5,Does Eva hate zeptons? ,Yes,11197
+dep_abcd,1612213183,exp.distractor.no.conditional,6,Does Faye have a taplor? ,No,8427
+dep_abcd,1612213183,exp.distractor.yes.non_cond,7,Does Gabe enjoy tuffros? ,Yes,10089
+dep_abcd,1612213183,exp.dependent.no.conditional,8,Does Helen have a lealo? ,Yes,27415
+dep_abcd,1612213183,exp.distractor.no.non_cond,9,Does Ivan know bezido? ,No,9190
+dep_abcd,1612213183,exp.distractor.yes.conditional,10,Does Jill like to yoffa? ,Yes,7483
+dep_abcd,1612213183,exp.distractor.no.non_cond,11,Does Katie care about linters? ,No,8331
+dep_abcd,1612213183,exp.distractor.yes.non_cond,12,Does Leah enjoy folphies? ,Yes,7117
+dep_abcd,1612213183,exp.dependent.no.conditional,13,Does Marc have a lammor? ,No,12739
+dep_abcd,1612213183,exp.distractor.yes.non_cond,14,Does Nate know karink? ,Yes,6035
+dep_abcd,1612213183,exp.distractor.no.non_cond,15,Does Owen like bisloor? ,No,7404
+dep_abcd,1612213183,exp.distractor.yes.non_cond,16,Does Peter hate flungo? ,Yes,5916
+dep_abcd,1612213183,exp.distractor.yes.conditional,17,Does Quinn care about vanoir? ,Yes,6387
+dep_abcd,1612213183,exp.dependent.no.conditional,18,Does Rita have a hoopler? ,No,7698
+dep_abcd,1612213183,exp.distractor.yes.conditional,19,Does Steve love pavarons? ,Yes,6035
+dep_abcd,1612213183,exp.distractor.no.conditional,20,Is Tracy a tarbon? ,No,16970
+dep_abcd,1612213274,exp.distractor.no.non_cond,1,Does Ann like to toogid? ,No,12092
+dep_abcd,1612213274,exp.distractor.yes.conditional,2,Does Bea have a hondart? ,Yes,6990
+dep_abcd,1612213274,exp.dependent.no.conditional,3,Does Cece have a dord? ,Yes,27679
+dep_abcd,1612213274,exp.distractor.yes.non_cond,4,Does Dana love to flomp? ,Yes,6166
+dep_abcd,1612213274,exp.distractor.yes.non_cond,5,Does Eva hate zeptons? ,Yes,5702
+dep_abcd,1612213274,exp.distractor.no.conditional,6,Does Faye have a taplor? ,No,6149
+dep_abcd,1612213274,exp.distractor.yes.non_cond,7,Does Gabe enjoy tuffros? ,Yes,5485
+dep_abcd,1612213274,exp.dependent.no.conditional,8,Does Helen have a lealo? ,Yes,6149
+dep_abcd,1612213274,exp.distractor.no.non_cond,9,Does Ivan know bezido? ,No,7596
+dep_abcd,1612213274,exp.distractor.yes.conditional,10,Does Jill like to yoffa? ,Yes,5958
+dep_abcd,1612213274,exp.distractor.no.non_cond,11,Does Katie care about linters? ,No,4030
+dep_abcd,1612213274,exp.distractor.yes.non_cond,12,Does Leah enjoy folphies? ,Yes,3637
+dep_abcd,1612213274,exp.dependent.no.conditional,13,Does Marc have a lammor? ,Yes,5949
+dep_abcd,1612213274,exp.distractor.yes.non_cond,14,Does Nate know karink? ,Yes,3630
+dep_abcd,1612213274,exp.distractor.no.non_cond,15,Does Owen like bisloor? ,No,5174
+dep_abcd,1612213274,exp.distractor.yes.non_cond,16,Does Peter hate flungo? ,Yes,4726
+dep_abcd,1612213274,exp.distractor.yes.conditional,17,Does Quinn care about vanoir? ,Yes,4349
+dep_abcd,1612213274,exp.dependent.no.conditional,18,Does Rita have a hoopler? ,Yes,5094
+dep_abcd,1612213274,exp.distractor.yes.conditional,19,Does Steve love pavarons? ,Yes,5278
+dep_abcd,1612213274,exp.distractor.no.conditional,20,Is Tracy a tarbon? ,Yes,13431
+dep_abcd,1612213385,exp.distractor.no.non_cond,1,Does Ann like to toogid? ,No,41262
+dep_abcd,1612213385,exp.distractor.yes.conditional,2,Does Bea have a hondart? ,Yes,10149
+dep_abcd,1612213385,exp.dependent.no.conditional,3,Does Cece have a dord? ,No,13730
+dep_abcd,1612213385,exp.distractor.yes.non_cond,4,Does Dana love to flomp? ,Yes,10264
+dep_abcd,1612213385,exp.distractor.yes.non_cond,5,Does Eva hate zeptons? ,Yes,8375
+dep_abcd,1612213385,exp.distractor.no.conditional,6,Does Faye have a taplor? ,No,6799
+dep_abcd,1612213385,exp.distractor.yes.non_cond,7,Does Gabe enjoy tuffros? ,Yes,5102
+dep_abcd,1612213385,exp.dependent.no.conditional,8,Does Helen have a lealo? ,No,12977
+dep_abcd,1612213385,exp.distractor.no.non_cond,9,Does Ivan know bezido? ,No,5034
+dep_abcd,1612213385,exp.distractor.yes.conditional,10,Does Jill like to yoffa? ,Yes,4021
+dep_abcd,1612213385,exp.distractor.no.non_cond,11,Does Katie care about linters? ,No,8384
+dep_abcd,1612213385,exp.distractor.yes.non_cond,12,Does Leah enjoy folphies? ,Yes,7005
+dep_abcd,1612213385,exp.dependent.no.conditional,13,Does Marc have a lammor? ,Yes,9612
+dep_abcd,1612213385,exp.distractor.yes.non_cond,14,Does Nate know karink? ,Yes,4932
+dep_abcd,1612213385,exp.distractor.no.non_cond,15,Does Owen like bisloor? ,Yes,6529
+dep_abcd,1612213385,exp.distractor.yes.non_cond,16,Does Peter hate flungo? ,Yes,4136
+dep_abcd,1612213385,exp.distractor.yes.conditional,17,Does Quinn care about vanoir? ,Yes,4468
+dep_abcd,1612213385,exp.dependent.no.conditional,18,Does Rita have a hoopler? ,No,4196
+dep_abcd,1612213385,exp.distractor.yes.conditional,19,Does Steve love pavarons? ,Yes,3126
+dep_abcd,1612213385,exp.distractor.no.conditional,20,Is Tracy a tarbon? ,Yes,11336
+dep_abcd,1612214349,exp.distractor.no.non_cond,1,Does Ann like to toogid? ,No,14017
+dep_abcd,1612214349,exp.distractor.yes.conditional,2,Does Bea have a hondart? ,Yes,7394
+dep_abcd,1612214349,exp.dependent.no.conditional,3,Does Cece have a dord? ,Yes,13995
+dep_abcd,1612214349,exp.distractor.yes.non_cond,4,Does Dana love to flomp? ,Yes,5748
+dep_abcd,1612214349,exp.distractor.yes.non_cond,5,Does Eva hate zeptons? ,Yes,5641
+dep_abcd,1612214349,exp.distractor.no.conditional,6,Does Faye have a taplor? ,No,6571
+dep_abcd,1612214349,exp.distractor.yes.non_cond,7,Does Gabe enjoy tuffros? ,Yes,8063
+dep_abcd,1612214349,exp.dependent.no.conditional,8,Does Helen have a lealo? ,Yes,9552
+dep_abcd,1612214349,exp.distractor.no.non_cond,9,Does Ivan know bezido? ,No,6748
+dep_abcd,1612214349,exp.distractor.yes.conditional,10,Does Jill like to yoffa? ,Yes,6658
+dep_abcd,1612214349,exp.distractor.no.non_cond,11,Does Katie care about linters? ,No,5810
+dep_abcd,1612214349,exp.distractor.yes.non_cond,12,Does Leah enjoy folphies? ,Yes,6228
+dep_abcd,1612214349,exp.dependent.no.conditional,13,Does Marc have a lammor? ,Yes,8709
+dep_abcd,1612214349,exp.distractor.yes.non_cond,14,Does Nate know karink? ,Yes,8203
+dep_abcd,1612214349,exp.distractor.no.non_cond,15,Does Owen like bisloor? ,No,8999
+dep_abcd,1612214349,exp.distractor.yes.non_cond,16,Does Peter hate flungo? ,Yes,4351
+dep_abcd,1612214349,exp.distractor.yes.conditional,17,Does Quinn care about vanoir? ,Yes,6121
+dep_abcd,1612214349,exp.dependent.no.conditional,18,Does Rita have a hoopler? ,Yes,10415
+dep_abcd,1612214349,exp.distractor.yes.conditional,19,Does Steve love pavarons? ,Yes,3710
+dep_abcd,1612214349,exp.distractor.no.conditional,20,Is Tracy a tarbon? ,Yes,8596
+dep_abcd,1612215261,exp.distractor.no.non_cond,1,Does Ann like to toogid? ,No,10030
+dep_abcd,1612215261,exp.distractor.yes.conditional,2,Does Bea have a hondart? ,Yes,8091
+dep_abcd,1612215261,exp.dependent.no.conditional,3,Does Cece have a dord? ,Yes,32361
+dep_abcd,1612215261,exp.distractor.yes.non_cond,4,Does Dana love to flomp? ,Yes,13495
+dep_abcd,1612215261,exp.distractor.yes.non_cond,5,Does Eva hate zeptons? ,Yes,6393
+dep_abcd,1612215261,exp.distractor.no.conditional,6,Does Faye have a taplor? ,No,5747
+dep_abcd,1612215261,exp.distractor.yes.non_cond,7,Does Gabe enjoy tuffros? ,Yes,5268
+dep_abcd,1612215261,exp.dependent.no.conditional,8,Does Helen have a lealo? ,Yes,32092
+dep_abcd,1612215261,exp.distractor.no.non_cond,9,Does Ivan know bezido? ,No,9203
+dep_abcd,1612215261,exp.distractor.yes.conditional,10,Does Jill like to yoffa? ,Yes,4516
+dep_abcd,1612215261,exp.distractor.no.non_cond,11,Does Katie care about linters? ,No,5716
+dep_abcd,1612215261,exp.distractor.yes.non_cond,12,Does Leah enjoy folphies? ,Yes,5084
+dep_abcd,1612215261,exp.dependent.no.conditional,13,Does Marc have a lammor? ,Yes,17203
+dep_abcd,1612215261,exp.distractor.yes.non_cond,14,Does Nate know karink? ,Yes,3724
+dep_abcd,1612215261,exp.distractor.no.non_cond,15,Does Owen like bisloor? ,No,5629
+dep_abcd,1612215261,exp.distractor.yes.non_cond,16,Does Peter hate flungo? ,Yes,4099
+dep_abcd,1612215261,exp.distractor.yes.conditional,17,Does Quinn care about vanoir? ,Yes,36274
+dep_abcd,1612215261,exp.dependent.no.conditional,18,Does Rita have a hoopler? ,Yes,5924
+dep_abcd,1612215261,exp.distractor.yes.conditional,19,Does Steve love pavarons? ,Yes,3179
+dep_abcd,1612215261,exp.distractor.no.conditional,20,Is Tracy a tarbon? ,No,17405
