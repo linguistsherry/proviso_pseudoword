@@ -1,0 +1,8 @@
+.error-text {
+    color: red;
+    font-style: italic;
+}
+
+.flashed-sentence {
+  margin-top: -50px;
+  }
